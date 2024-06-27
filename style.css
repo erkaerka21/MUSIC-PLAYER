@@ -7,8 +7,17 @@ body {
   display: flex;
   flex-direction: column;
   text-align: center;
-  justify-content: center;
 }
 .hide {
   display: none;
+}
+.all-buttons {
+  width: 25vw;
+  height: 18vh;
+  background-color: blanchedalmond;
+  border-radius: 25px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
 }
